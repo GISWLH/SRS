@@ -1,0 +1,59 @@
+{
+  "repo": "GISWLH/SRS",
+  "environment": "EHPC PBS",
+  "execution_scope": "Original optimization routine executed on its explicit synthetic Booth-function example. The marked analytic minimum follows the original function's variable order at (3, 1); this is an algorithm demonstration.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "a248b6d3129528cf4cf08c9605891d2c30a6e8cabb6f62ec07fc8b15a9a42ca2"
+  },
+  "python": "3.11.9 (main, Apr 19 2024, 16:48:06) [GCC 11.2.0]",
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "matplotlib": "3.9.4",
+    "scipy": "1.13.1",
+    "scikit-learn": "1.5.2",
+    "seaborn": "0.13.2",
+    "shap": "0.46.0",
+    "numba": "0.60.0",
+    "xgboost": "1.7.6",
+    "torch": "2.2.2+cpu",
+    "cartopy": "0.23.0",
+    "shapely": "2.0.6",
+    "pyproj": "3.6.1",
+    "requests": "2.32.4"
+  },
+  "started_at_utc": "2026-10-17T17:42:08.390725+00:00",
+  "finished_at_utc": "2026-10-17T17:42:09.266309+00:00",
+  "elapsed_seconds": 0.8755833560135216,
+  "source_files": [
+    {
+      "path": "readme_demo.py",
+      "sha256": "a3a6932943eb6216150f4db0c84ef8fadd883a0a009f7cb1032e81443559c3d2",
+      "bytes": 2053
+    },
+    {
+      "path": "SRS_python.py",
+      "sha256": "0bd3156bea16926afbaa08b09168b3317b0d661a71e4ed727700398de11544e6",
+      "bytes": 29264
+    }
+  ],
+  "input_files": [
+    {
+      "path": "README.md",
+      "sha256": "27e8d0391df54fdbf494d39091d27b829c2ed07e1a3f8c6e65f434714b12d7b2",
+      "bytes": 944
+    },
+    {
+      "path": "source-provenance.json",
+      "sha256": "b6291de538a2be01cbcf2d24ce18671b28357023bab3c4af0fe899287d87b96d",
+      "bytes": 371
+    },
+    {
+      "path": "SRS_help.ipynb",
+      "sha256": "beba5d7d38a85458f9ab1f96503d50d8a0a667e05f443e6213b986eddb701799",
+      "bytes": 19212
+    }
+  ]
+}

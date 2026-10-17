@@ -18,3 +18,14 @@ Haoshan Wei, Yongqiang Zhang, Changming Liu, Qi Huang, Pengxin Jia, Zhenwu Xu, Y
 <!-- readme-visual-refresh:artwork-source -->
 [Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
 <!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:execution -->
+## Demonstration captured on EHPC · 17 October 2026
+
+![Original optimization routine executed on its explicit synthetic Booth-function example. The marked analytic minimum follows the original function's variable order at (3, 1); this is an algorithm demonstration.](assets/readme/execution-result.png)
+
+Original optimization routine executed on its explicit synthetic Booth-function example. The marked analytic minimum follows the original function's variable order at (3, 1); this is an algorithm demonstration.
+
+[Execution record and checksums](assets/readme/execution-record.json).
+<!-- /readme-visual-refresh:execution -->
