@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![SRS — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # SRS_python
 The Strategic Random Search (SRS) —— A New Global Optimization Algorithm  
 
@@ -10,3 +14,7 @@ There are two files here：
 ## ref
 please consider cite the following article:  
 Haoshan Wei, Yongqiang Zhang, Changming Liu, Qi Huang, Pengxin Jia, Zhenwu Xu, Yuhan Guo, The strategic random search (SRS) – A new global optimizer for calibrating hydrological models, Environmental Modelling & Software, 2023, https://doi.org/10.1016/j.envsoft.2023.105914.
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
